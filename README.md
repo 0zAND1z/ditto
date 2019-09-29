@@ -1,6 +1,7 @@
 # ditto
 
 ![ditto](images/ditto.jpg)
+![ditto](images/ditto.jpg)
 
 [*Image source*](https://blog.golang.org/gopher)
 
